@@ -1,0 +1,15 @@
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\bin\Debug\scholarship application system.exe.config
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\bin\Debug\scholarship application system.exe
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\bin\Debug\scholarship application system.pdb
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship application system.csproj.AssemblyReference.cache
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form1.resources
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Properties.Resources.resources
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship application system.csproj.GenerateResource.cache
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship application system.csproj.CoreCompileInputs.cache
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship application system.exe
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship application system.pdb
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form2.resources
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form3.resources
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form4.resources
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form5.resources
+C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form6.resources
