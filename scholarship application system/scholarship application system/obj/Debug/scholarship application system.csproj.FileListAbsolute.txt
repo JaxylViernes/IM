@@ -13,3 +13,20 @@ C:\Users\Jaxyl\source\repos\scholarship application system\scholarship applicati
 C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form4.resources
 C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form5.resources
 C:\Users\Jaxyl\source\repos\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form6.resources
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\bin\Debug\scholarship application system.exe.config
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\bin\Debug\scholarship application system.exe
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\bin\Debug\scholarship application system.pdb
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\bin\Debug\MySql.Data.dll
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\obj\Debug\scholarship application system.csproj.AssemblyReference.cache
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form1.resources
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form2.resources
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form3.resources
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form4.resources
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form5.resources
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Form6.resources
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\obj\Debug\scholarship_application_system.Properties.Resources.resources
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\obj\Debug\scholarship application system.csproj.GenerateResource.cache
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\obj\Debug\scholarship application system.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\obj\Debug\scholarship application system.csproj.CopyComplete
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\obj\Debug\scholarship application system.exe
+C:\Users\Jamie\Source\Repos\IM\scholarship application system\scholarship application system\obj\Debug\scholarship application system.pdb

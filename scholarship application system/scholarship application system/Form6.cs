@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MySql.Data.MySqlClient;
 
 namespace scholarship_application_system
 {
@@ -23,5 +24,6 @@ namespace scholarship_application_system
             form1.Show();
             this.Hide();
         }
+        
     }
 }
